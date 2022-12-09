@@ -1,14 +1,14 @@
 import React from 'react';
 import "./about.css"
-import headshot from "../../assets/images/headshot.jpg";
+import headshot from "../../assets/images/headshot.png";
 
 function About() {
     return (
     
             <div className="about" id="about">
                 <div className="left">
-                    <div className="imgContainer">
-                        <img src={headshot} alt="Amal pic" />
+                    <div>
+                        <img className="imgContainer" src={headshot} alt="Amal pic" />
                     </div>
                 </div>
                 <div className="right">

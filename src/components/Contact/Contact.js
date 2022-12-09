@@ -19,11 +19,11 @@ function Contact() {
 
 
     return (
-        <div className="contact" id="contact">
+        <div>
             <div>
            </div>
-            <div>
-                <h2>CONTACT ME</h2>
+            <div className="contact" id="contact" >
+                <h4>CONTACT ME</h4>
                 <form onSubmit={handleSubmit} >
                     <input type="text" placeholder="Email"/>
                     <input type="text" placeholder="Name"/>

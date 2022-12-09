@@ -1,32 +1,38 @@
 .about{
+    margin-top: 65px;
     background-color: white;
     display: flex;
+    text-decoration: none;
+}
 
-    }
+   
 
     .imgContainer{
-        width: 50px;
-        height: 50px;
-        background-color: #010101;
-        border-style: none;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        float: right;
+        margin-top: 65px;
+    max-width: 300px;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(143, 143, 143, 0.19);
     
     }
 
     h1{
-        font-size: 60px;
-        margin: 10px 0;
+        font-size: 80px;
+        color: rgb(179, 3, 3);
+        margin-left: 10px;
     }
 
     h2{
-        font-size: 35px;
+        font-size: 50px;
+        color: rgb(5, 4, 4);
     }
 
     p{
         width: 80%;
         display: flex;
         margin-top: 5px;
+        font-size: 20px;
+        font-weight: bold;
     }
+

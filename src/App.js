@@ -16,8 +16,7 @@ function App() {
       <div className="sections">
         <About />
         <Projects />
-        <Contact />
-        <Footer />  
+        <Contact /> 
       </div>
       <div className="footer">
       <Footer />  

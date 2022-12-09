@@ -6,8 +6,8 @@ function Navbar() {
 
     return (
         <div className="Navbar">
-                <div className="center">
-                    <ul>
+                <div>
+                    <ul className="center">
                         <li><a href="#about">About Me</a></li>
                         <li><a href="#portfolio">Projects</a></li>
                         <li><a href="#contact">Contact</a></li>
