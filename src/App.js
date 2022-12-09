@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React  from 'react';
 import './App.css';
 // import Navigation from './components/Navigation';
 import Navbar from "./components/Navbar/Navbar";
@@ -12,15 +12,15 @@ function App() {
 
   return (
     <div className="app">
-      <Navbar></Navbar>
+      <Navbar />
       <div className="sections">
-        <About></About>
-        <Projects></Projects>
-        <Contact></Contact>
-        <Footer></Footer>  
+        <About />
+        <Projects />
+        <Contact />
+        <Footer />  
       </div>
       <div className="footer">
-      <Footer></Footer>  
+      <Footer />  
       </div>
       </div>  
   )

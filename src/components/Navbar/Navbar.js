@@ -6,7 +6,7 @@ function Navbar() {
 
     return (
         <div className="topbar">
-                <div className="right">
+                <div className="center">
                     <ul>
                         <li><a href="#about">About Me</a></li>
                         <li><a href="#portfolio">Projects</a></li>
