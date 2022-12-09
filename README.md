@@ -8,7 +8,7 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-## CONTRIBUTIONnp
+## CONTRIBUTION
 No contribution required
 
 ## CONTACT
@@ -16,6 +16,7 @@ Amal Hirsi
 Email: ahirsi@hotmail.co.uk
 Github: https://github.com/AmalHirsi
 https://github.com/AmalHirsi/React-Portfolio.git
+https://amalhirsi.github.io/React-Portfolio/
 
 
 
