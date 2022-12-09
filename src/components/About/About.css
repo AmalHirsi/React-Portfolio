@@ -5,8 +5,8 @@
     }
 
     .imgContainer{
-        width: 300px;
-        height: 300px;
+        width: 50px;
+        height: 50px;
         background-color: #010101;
         border-style: none;
         display: flex;

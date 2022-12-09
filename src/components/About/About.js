@@ -1,5 +1,6 @@
 import React from 'react';
 import "./about.css"
+import headshot from "../../assets/images/headshot.jpg";
 
 function About() {
     return (
@@ -7,7 +8,7 @@ function About() {
             <div className="about" id="about">
                 <div className="left">
                     <div className="imgContainer">
-                        <img src="assets/headshot.jpg" alt="Amal pic" />
+                        <img src={headshot} alt="Amal pic" />
                     </div>
                 </div>
                 <div className="right">

@@ -1,8 +1,8 @@
 import React from 'react';
-import "./Projects.css";
-import daySchedulerImg from "../../assets/images/daySchedulerImg";
-import passwordGeneratorImg from "../../assets/images/passwordGeneratorImg";
-import noteTakerImg from "../../assets/images/noteTakerImg";
+import "./project.css";
+import daySchedulerImg from "../../assets/images/daySchedulerImg.png";
+import passwordGeneratorImg from "../../assets/images/passwordGeneratorImg.png";
+import noteTakerImg from "../../assets/images/noteTakerImg.png";
 
 
 
@@ -16,7 +16,7 @@ function Projects() {
               <a href="https://amalhirsi.github.io/5-Work-Day-Scheduler/">
                 {" "}
                 <img
-                  src={flowerImage}
+                  src={daySchedulerImg}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Work Day Scheduler"
@@ -39,7 +39,7 @@ function Projects() {
               <a href="https://https://amalhirsi.github.io/Challenge-3-Password-Generator/">
                 {" "}
                 <img
-                  src={twilightImage}
+                  src={passwordGeneratorImg}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Password Generator"
@@ -62,7 +62,7 @@ function Projects() {
               <a href="https://amalhirsi.github.io/11-Note-Taker/">
                 {" "}
                 <img
-                  src={noteTakerImage}
+                  src={noteTakerImg}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Note_Taker"

@@ -9,7 +9,17 @@ function Contact() {
         setMessage(true);
     }
 
-<div className="contact" id="contact">
+
+
+
+
+
+
+
+
+
+    return (
+        <div className="contact" id="contact">
             <div>
            </div>
             <div>
@@ -23,15 +33,6 @@ function Contact() {
             </div>
 
         </div>
-
-
-
-
-
-
-
-
-    return (
      );
     }
     

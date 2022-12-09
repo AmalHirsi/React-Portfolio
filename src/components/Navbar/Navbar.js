@@ -5,7 +5,7 @@ import "./Navbar.css";
 function Navbar() {
 
     return (
-        <div className="topbar">
+        <div className="Navbar">
                 <div className="center">
                     <ul>
                         <li><a href="#about">About Me</a></li>
